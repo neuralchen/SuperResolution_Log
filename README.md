@@ -36,4 +36,4 @@
 | 7.8 | RLFN inception A & cat ESA  | - | - | 32.09  / 0.8947| 28.26 / 0.7828 | 27.59 / 0.7375 | 26.09 / 0.7873 |
 | 7.8 | RLFN inception A & cat inv  | - | - |  /  |  /  |  /  | 26.06 / 0.7860 |
 | 7.10 | RLFN inception A & cat ESA with prelu | - | - |  /  |  /  |  /  | / |
-| 7.10 | RLFN inception A & cat ESA with 64 channel | - | - |  /  |  /  |  /  | / |
+| 7.10 | RLFN inception A & cat ESA with 64 channel | - | - | 32.09 / 0.8941 | 28.25 / 0.7823 | 27.59 / 0.7371 | 26.09 /0.7870 |
