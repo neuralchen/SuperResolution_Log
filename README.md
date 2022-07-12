@@ -33,7 +33,13 @@
 | 7.7 | RLFN inception| - | - | 31.91 / 0.8914 | 28.11 / 0.7792 | 27.52 / 0.7345 | 25.88 / 0.7797 |
 | 7.7 | RLFN inception A| - | - | 32.07 / 0.8943 | 28.28 / 0.7824 | 27.58 / 0.7371 | 26.05 / 0.7861 |
 | 7.8 | RLFN inception C (kill at 670 epoch) | - | - | 32.03 / 0.8940 | 28.28 / 0.7828 | 27.57 / 0.7369 | 25.97 /  0.7840 |
-| 7.8 | RLFN inception A & cat ESA  | - | - | 32.09  / 0.8947| 28.26 / 0.7828 | 27.59 / 0.7375 | 26.09 / 0.7873 |
+| 7.8 | RLFN inception A & cat ESA  | - | - | 32.08  / 0.8945| 28.27 / 0.7826 | 27.60 / 0.7371 | 26.09 / 0.7867 |
 | 7.8 | RLFN inception A & cat inv  | - | - | 32.06 / 0.8944 | 28.28 / 0.7826 | 27.59 / 0.7371 | 26.08 / 0.7866 |
 | 7.10 | RLFN inception A & cat ESA with prelu | - | - |  /  |  /  |  /  | / |
 | 7.10 | RLFN inception A & cat ESA with 64 channel | - | - | 32.06 / 0.8944 | 28.28 / 0.7827 | 27.58 / 0.7372 | 26.10 /0.7874 |
+| 7.11 | RLFN inception A & cat ESA 8 layer | - | - |  /  |  /  |  /  | / |
+| 7.11 | RLFN inception A & cat ESA 10 layer| - | - |  /  |  /  |  /  | / |
+| 7.11 | RLFN inception A & cat ESA 12 layer | - | - |  /  |  /  |  /  | / |
+| 7.11 | RLFN inception A & cat ESA 12 layer | - | - |  /  |  /  |  /  | / |
+| 7.11 | RLFN inception A & cat ESA cat attn 6 layer | - | - |  /  |  /  |  /  | / |
+
